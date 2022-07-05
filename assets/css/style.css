@@ -36,12 +36,11 @@ body {
     font-size: 1.4rem;
     margin-left: 200px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    width: 110px;
-    height: 65px;
-    box-sizing: content-box;
+    width: 6rem;
+    height: 6.5rem;
     padding-top: 40px;
     position: absolute;
-    background: pink;
+    background-image: url("../images/pattern1.jpg");
     color: rebeccapurple;
     letter-spacing: 0.1em;
     text-align: center;
@@ -55,7 +54,8 @@ body {
     width: 30rem;
     margin-left: 50%;
     font-size: 1.2rem;
-    background-color: pink;
+    /* background-color: pink; */
+    background-image: url("../images/pattern1.jpg");
     padding-bottom: 1rem;
 }
 
