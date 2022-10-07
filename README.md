@@ -1,13 +1,15 @@
 #weis-portfolio
 
+<h2>View Webpage</h2>
+
+https://nofutofu.github.io/weis-portfolio/
+
 ![Homepage Screenshot](/assets/images/homepage-screenshot.png "Homepage Screenshot")
 
 
 Advanced HTML and CSS challenge week 2; creating my own portfolio
 
-<h2>View Webpage</h2>
 
-https://nofutofu.github.io/weis-portfolio/
 
 
 <h2>Change Log</h2>
@@ -20,7 +22,7 @@ I did this entire page in a single commit, however future changes if they are ma
 
 1.1
 
-added a background image to nav bar and name banner instead of the solid pink
+added a background image to nav bar and name banner instead of the solid pink.
 
 
 
